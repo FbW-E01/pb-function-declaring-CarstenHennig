@@ -63,4 +63,4 @@ ex3(3, 3);
 function getRemainder(num3, num4) {
   return num3 % num4;
 }
-getRemainder(12, 3);
+getremainder(12, 3);

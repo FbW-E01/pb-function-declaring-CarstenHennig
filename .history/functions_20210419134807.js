@@ -59,8 +59,3 @@ anotherDivision(10, 0);
 
 let ex3 = (num1, num2) => console.log(num1 * num2);
 ex3(3, 3);
-
-function getRemainder(num3, num4) {
-  return num3 % num4;
-}
-getRemainder(12, 3);
